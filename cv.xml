@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cv.xsl"?>
+<cv>
+  <personal_info>
+    <name>Raisul Islam</name>
+    <address>Indira Road, Farmgate, Dhaka</address>
+    <phone>01731625598</phone>
+    <email>raisul.aust1@gmail.com</email>
+  </personal_info>
+  <education>
+    <degree>
+      <title>Master of Science in Computer Science and Engineering</title>
+      <university>East West University</university>
+      <year>2023 - 2024</year>
+    </degree>
+    <degree>
+      <title>Bachelor of Science in Mechanical Engineering</title>
+      <university>Ahsanullah University of Science and Technology</university>
+      <year>2014 - 2018</year>
+    </degree>
+    <degree>
+      <title>Higher Secondary School Certificate</title>
+      <school>Dhaka City College</school>
+      <year>2012 - 2014</year>
+    </degree>
+	<degree>
+      <title>Secondary School Certificate</title>
+      <school>Bangladesh International School and College, Riyadh</school>
+      <year>2002 - 2012</year>
+    </degree>
+  </education>
+  <work_experience>
+    <position>
+      <title>Medical Documentation Specialist</title>
+      <company>Augmedix Bangladesh Ltd.</company>
+      <year>2021-2023</year>
+      <description>
+        Working live with US physician to prepare patients notes.
+      </description>
+    </position>
+    <position>
+      <title>Executive</title>
+      <company>Moving Machines Ltd.</company>
+      <year>2019-2020</year>
+      <description>
+        Digital and B2B marketing and sales of construction equipment
+      </description>
+    </position>
+  </work_experience>
+  <programming_skills>
+    <skill>
+      <name>C/C++</name>
+    </skill>
+    <skill>
+      <name>Python</name>
+    </skill>
+    <skill>
+      <name>Java</name>
+    </skill>
+    <skill>
+      <name>JavaScript</name>
+    </skill>
+  </programming_skills>
+  <language_skills>
+    <language>Bengali</language>
+    <language>English</language>
+      <language>Arabic</language>
+    <language>Hindi</language>
+    
+  </language_skills>
+  <references>
+    <referee>
+      <name>Dr. Hasan Mahmud</name>
+    </referee>
+  </references>
+</cv>
